@@ -17,15 +17,15 @@
 
 - 📫 How to reach me **sriapuroop@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VP-roxrmEye4H2t716CIZREuNeb-niHy/view?usp=sharing](https://drive.google.com/file/d/1VP-roxrmEye4H2t716CIZREuNeb-niHy/view?usp=sharing)
+- 📄 Know about my Work experiences [https://drive.google.com/file/d/1VP-roxrmEye4H2t716CIZREuNeb-niHy/view?usp=sharing](https://drive.google.com/file/d/1VP-roxrmEye4H2t716CIZREuNeb-niHy/view?usp=sharing)
 
 - ⚡ Fun fact **Film Bluff and Techy Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/apuroop-p-55333a140" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="apuroop-p-55333a140" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/apuroop-p-55333a140" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="apuroop-p-55333a140" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/sriapuroop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sriapuroop" height="70" width="70" /></a>
-<a href="https://www.leetcode.com/apuroop229" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="apuroop229" height="70" width="70" /></a>
+<a href="https://www.leetcode.com/apuroop229" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="apuroop229" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
