@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/apuroop-p-55333a140" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="apuroop-p-55333a140" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sriapuroop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sriapuroop" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/apuroop229" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)" alt="apuroop229" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/apuroop229" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="apuroop229" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
