@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/apuroop2201](www.github.com/apuroop2201)
 
-- 💬 Ask me about **Python, FastAPI, Flask, AWS, Docker, Kubernetes, Terraform,SQL**
+- 💬 Good Expertise in **Python, FastAPI, Flask, AWS, Docker, Kubernetes, Terraform,SQL, Grafana, Agile methodologies, Tableau, MS-Office Suite and Machine Learning**
 
 - 📫 You can reach me at **sriapuroop@gmail.com**
 
