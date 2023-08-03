@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apuroop Pendurthi</h1>
 <h3 align="center">Looking for a job, skilled in Back-end Engineering || Data Engineering || Cloud Engineering</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47izdebb7j8176pzkb50jepd9v4eof1vufzzndx9qr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47izdebb7j8176pzkb50jepd9v4eof1vufzzndx9qr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apuroop2201&label=Profile%20views&color=0e75b6&style=flat" alt="apuroop2201" /> </p>
 
