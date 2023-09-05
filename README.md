@@ -17,7 +17,7 @@
 
 - 📫 You can reach me at **sriapuroop@gmail.com**
 
-- 📄 Know about my Work experiences [Click to Visit My Resume]([https://drive.google.com/file/d/1198zVp62MIp7NdZwx8iH30-w2UTDqxf7/view?usp=drive_link])
+- 📄 Know about my Work experiences [Click to Visit My Resume](https://drive.google.com/file/d/1198zVp62MIp7NdZwx8iH30-w2UTDqxf7/view?usp=drive_link)
 
 - ⚡ Fun Facts **Film Bluff and Techy Guy**
 
