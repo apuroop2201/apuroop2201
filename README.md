@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apuroop2201" alt="apuroop2201" /></a> </p>
 
-- 🔭 I recently Built [The Classic Snake Game](https://github.com/apuroop2201/word_to_pdf)
+- 🔭 I recently Built [The Classic Snake Game](https://apuroop2201.github.io/Snake-Fruit-Game/)
 
 - 👯 I’m looking to collaborate on **Back-end Engineering || Data Engineering || Cloud Engineering**
 
