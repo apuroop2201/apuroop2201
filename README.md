@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apuroop2201" alt="apuroop2201" /></a> </p>
 
-- 🔭 I’m currently working on [Word Doc to Pdf Conversion Application](https://github.com/apuroop2201/word_to_pdf)
+- 🔭 I recently Built [The Classic Snake Game](https://github.com/apuroop2201/word_to_pdf)
 
 - 👯 I’m looking to collaborate on **Back-end Engineering || Data Engineering || Cloud Engineering**
 
-- 👨‍💻 All of my projects are available at [www.github.com/apuroop2201](www.github.com/apuroop2201)
+- 👨‍💻 All of my projects are available at [www.github.com/apuroop2201](https://apuroop2201.github.io/Snake-Fruit-Game/)
 
 - 💬 Good Expertise in **Python, FastAPI, Flask, AWS, Docker, Kubernetes, Terraform,SQL, Grafana, Agile methodologies, Tableau, MS-Office Suite and Machine Learning**
 
